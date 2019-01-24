@@ -1,299 +1,299 @@
 [
     {
+        "type": 1,
+        "name": "Blue Sky Lofts",
+        "provider": "Blue Sky Lofts",
+        "description": "We offer a stylish community that combines nostalgic character with newly renovated modern conveniences.  Our community is centrally located near bus routes, restaurants, shopping, trails & bike paths. We are only 1 block east of the University of Colorado and 2 blocks from Boulder’s 29th Street mall. The Blue Sky Lofts community is the perfect place to call home.",
         "location": {
             "address": "2905 E Aurora Ave, Boulder, CO 80303",
             "coordinates": [40.0042189, -105.2553355]
         },
-        "name": "Blue Sky Lofts",
-        "type": 1,
         "details": ["AC", "Heating", "Parking"],
-        "description": "We offer a stylish community that combines nostalgic character with newly renovated modern conveniences.  Our community is centrally located near bus routes, restaurants, shopping, trails & bike paths. We are only 1 block east of the University of Colorado and 2 blocks from Boulder’s 29th Street mall. The Blue Sky Lofts community is the perfect place to call home.",
-        "images": ["https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-004.jpg", "https://www.blueskylofts.net/wp-content/uploads/use-028.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-using-032.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Loftsuse-1081.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-043.jpg"],
         "properties": [
             {
-                "baths": 1,
                 "beds": 0,
-                "images": ["https://www.blueskylofts.net/wp-content/uploads/lodgepole.jpg","https://www.blueskylofts.net/wp-content/uploads/lodgepole2.jpg"],
+                "baths": 1,
+                "size": 0,
                 "price": 1025,
-                "size": 0
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/lodgepole.jpg","https://www.blueskylofts.net/wp-content/uploads/lodgepole2.jpg"]
             },
             {
-                "baths": 1,
                 "beds": 1,
-                "images": ["https://www.blueskylofts.net/wp-content/uploads/divide.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide2.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide3.jpg"],
+                "baths": 1,
+                "size": 0,
                 "price": 1125,
-                "size": 0
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/divide.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide2.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide3.jpg"]
             },
             {
-                "baths": 1,
                 "beds": 1,
-                "images": ["https://www.blueskylofts.net/wp-content/uploads/divide4.jpg"],
+                "baths": 1,
+                "size": 0,
                 "price": 1225,
-                "size": 0
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/divide4.jpg"]
             },
             {
-                "baths": 1,
                 "beds": 1,
-                "images": ["https://www.blueskylofts.net/wp-content/uploads/cloud.jpg"],
+                "baths": 1,
+                "size": 0,
                 "price": 1225,
-                "size": 0
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/cloud.jpg"]
             },
             {
-                "baths": 1,
                 "beds": 0,
-                "images": ["https://www.blueskylofts.net/wp-content/uploads/northwoods.jpg", "https://www.blueskylofts.net/wp-content/uploads/northwoods2.jpg"],
+                "baths": 1,
+                "size": 0,
                 "price": 1100,
-                "size": 0
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/northwoods.jpg", "https://www.blueskylofts.net/wp-content/uploads/northwoods2.jpg"]
             },
             {
-                "baths": 1,
                 "beds": 0,
-                "images": ["https://www.blueskylofts.net/wp-content/uploads/legend.jpg"],
+                "baths": 1,
+                "size": 0,
                 "price": 1225,
-                "size": 0
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/legend.jpg"]
             },
             {
-                "baths": 1,
                 "beds": 1,
-                "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest.jpg"],
+                "baths": 1,
+                "size": 0,
                 "price": 1025,
-                "size": 0
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest.jpg"]
             },
             {
-                "baths": 1,
                 "beds": 1,
-                "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest2.jpg"],
+                "baths": 1,
+                "size": 0,
                 "price": 1025,
-                "size": 0
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest2.jpg"]
             }
         ],
-        "provider": "Blue Sky Lofts"
+        "images": ["https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-004.jpg", "https://www.blueskylofts.net/wp-content/uploads/use-028.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-using-032.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Loftsuse-1081.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-043.jpg"]
     },
     {
+        "type": 1,
+        "name": "The Hive Baseline",
+        "provider": "The Hive Baseline",
+        "description": "The Hive Baseline is centrally located in Beautiful Boulder just off of Baseline Rd. Walking distance from University of Colorado Boulder, Baseline shopping district, and a stone’s throw from both Pearl Street and 29th St Mall, The Hive at Baseline is well located to meet your needs.  A hop, skip and a jump from US-36, head out from your home in minutes to hit Denver, the slopes, fishing holes, mountain bike and hiking trails and more. After a long day at school, or out enjoying the gorgeous Boulder outdoors, you will be happy to relax on your balcony and take in the mountain views. During the summer months hang out poolside with your friends and enjoy our communal grilling areas. On those chilly winter evenings, cozy up next to your fireplace and order delivery from your favorite local Boulder restaurant. Our well-appointed, town-home style apartments are available in spacious one, two and three-bedroom floorplans and are equipped with central heat and air and modern appliances. As you make the Hive Baseline your home you may take advantage of our community dog park, individual garage options, private balconies and more. Call to reserve your space today!",
         "location": {
             "address": "2726 Moorhead Ave, Boulder, CO 80305",
             "coordinates": [39.9986764, -105.2612561]
         },
-        "name": "The Hive Baseline",
-        "type": 1,
         "details": ["AC", "Heating", "Pool", "Washer", "Cats", "Dogs", "Parking"],
-        "description": "The Hive Baseline is centrally located in Beautiful Boulder just off of Baseline Rd. Walking distance from University of Colorado Boulder, Baseline shopping district, and a stone’s throw from both Pearl Street and 29th St Mall, The Hive at Baseline is well located to meet your needs.  A hop, skip and a jump from US-36, head out from your home in minutes to hit Denver, the slopes, fishing holes, mountain bike and hiking trails and more. After a long day at school, or out enjoying the gorgeous Boulder outdoors, you will be happy to relax on your balcony and take in the mountain views. During the summer months hang out poolside with your friends and enjoy our communal grilling areas. On those chilly winter evenings, cozy up next to your fireplace and order delivery from your favorite local Boulder restaurant. Our well-appointed, town-home style apartments are available in spacious one, two and three-bedroom floorplans and are equipped with central heat and air and modern appliances. As you make the Hive Baseline your home you may take advantage of our community dog park, individual garage options, private balconies and more. Call to reserve your space today!",
-        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Pool.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Monument%20Sign.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Courtyard.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202776.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202760.jpg"],
         "properties": [
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/baseline.jpg"],
+                "size": 434,
                 "price": 1665,
-                "size": 434
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/baseline.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Broadway.jpg"],
+                "size": 680,
                 "price": 1800,
-                "size": 680
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Broadway.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Hill.jpg"],
+                "size": 689,
                 "price": 1805,
-                "size": 689
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Hill.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Pearl.jpg"],
+                "size": 725,
                 "price": 1750,
-                "size": 725
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Pearl.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 1,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Fox.jpg"],
+                "size": 896,
                 "price": 2190,
-                "size": 896
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Fox.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 1.5,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Fillmore.jpg"],
+                "size": 927,
                 "price": 2200,
-                "size": 927
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Fillmore.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Bluebird%20(1).jpg"],
+                "size": 924,
                 "price": 2300,
-                "size": 924
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Bluebird%20(1).jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Ogden.jpg"],
+                "size": 2470,
                 "price": 927,
-                "size": 2470
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Ogden.jpg"]
             },
             {
                 "beds": 3,
                 "baths": 2,
-                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Red%20Rocks.jpg"],
+                "size": 3000,
                 "price": 1221,
-                "size": 3000
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Red%20Rocks.jpg"]
             }
         ],
-        "provider": "The Hive Baseline"
+        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Pool.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Monument%20Sign.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Courtyard.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202776.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202760.jpg"]
     },
     {
+        "type": 1,
+        "name": "Boulder View Apartments",
+        "provider": "Boulder View Apartments",
+        "description": "Welcome to your new home at Boulder View Apartments in Boulder, Colorado! Nestled in the heart of Boulder, Boulder View Apartments offers all the rewards and comforts of high-class living. Whether it be a relaxing night of beautiful Boulder views or a night out on the town, Boulder View gives you the features you’re looking for at the price you want. Just minutes from Boulder's finest shopping and dining, you get the benefits of city living, combined with comforting amenities. Boulder is a nature enthusiast's paradise! Consider your new Boulder home as part natural playground, part luxury, and 100% home! Just minutes away from CU Boulder and downtown Boulder, our convenient location puts you right at the center of the action. Learn the difference that better living can make!",
         "location": {
             "address": "6655 Lookout Rd, Boulder, CO 80301",
             "coordinates": [40.0734793, -105.2690366]
         },
-        "name": "Boulder View Apartments",
-        "type": 1,
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "description": "Welcome to your new home at Boulder View Apartments in Boulder, Colorado! Nestled in the heart of Boulder, Boulder View Apartments offers all the rewards and comforts of high-class living. Whether it be a relaxing night of beautiful Boulder views or a night out on the town, Boulder View gives you the features you’re looking for at the price you want. Just minutes from Boulder's finest shopping and dining, you get the benefits of city living, combined with comforting amenities. Boulder is a nature enthusiast's paradise! Consider your new Boulder home as part natural playground, part luxury, and 100% home! Just minutes away from CU Boulder and downtown Boulder, our convenient location puts you right at the center of the action. Learn the difference that better living can make!",
-        "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/bd6071b9b369492e0abd159689a37edc.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/3806d43dc3ce431bbd22677b2fd45fb3.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/2ec1a1a33c375e9aa7906aa9a3287693.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/8545cdd39f94eeea6bbef8aceca705a1.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/1872b0bed57d504f5533512b75679c14.jpg"],
         "properties": [
             {
                 "beds": 0,
                 "baths": 1,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/niwotloop.jpg"],
+                "size": 562,
                 "price": call_for_price,
-                "size": 562
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/niwotloop.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lefthandcanyon.jpg"],
+                "size": 712,
                 "price": call_for_price,
-                "size": 712
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lefthandcanyon.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/theflatiron.jpg"],
+                "size": 751,
                 "price": 1717,
-                "size": 751
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/theflatiron.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lobotrail.jpg"],
+                "size": 804,
                 "price": call_for_price,
-                "size": 804
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lobotrail.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/boulderfalls.jpg"],
+                "size": 960,
                 "price": call_for_price,
-                "size": 960
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/boulderfalls.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/peaktopeak.jpg"],
+                "size": 947,
                 "price": call_for_price,
-                "size": 947
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/peaktopeak.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/royalarch.jpg"],
+                "size": 975,
                 "price": call_for_price,
-                "size": 975
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/royalarch.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/twinlakes.jpg"],
+                "size": 1006,
                 "price": call_for_price,
-                "size": 1006
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/twinlakes.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/haystackmountain.jpg"],
+                "size": 1033,
                 "price": call_for_price,
-                "size": 1033
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/haystackmountain.jpg"]
             }
         ],
-        "provider": "Boulder View Apartments"
+        "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/bd6071b9b369492e0abd159689a37edc.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/3806d43dc3ce431bbd22677b2fd45fb3.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/2ec1a1a33c375e9aa7906aa9a3287693.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/8545cdd39f94eeea6bbef8aceca705a1.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/1872b0bed57d504f5533512b75679c14.jpg"]
     },
     {
+        "type": 1,
+        "name": "Harper House apartments",
+        "provider": "Harper House",
+        "description": "See why our residents call our community home!!! Treat yourself to a refreshingly uncommon apartment experience. Here at Harper House, where comfort and serenity come naturally, you can find a sanctuary that is both centrally located and fabulously removed. Come see our wonderful Zen Japanese Garden, and find out why Harper is a place you will be proud to call home!﻿",
         "location": {
             "address": "4920 Thunderbird Circle, Boulder, CO 80303",
             "coordinates": [39.9887971, -105.234745]
         },
-        "name": "Harper House apartments",
-        "type": 1,
         "details": ["AC", "Heating", "Parking", "Pool", "Washer"],
-        "description": "See why our residents call our community home!!! Treat yourself to a refreshingly uncommon apartment experience. Here at Harper House, where comfort and serenity come naturally, you can find a sanctuary that is both centrally located and fabulously removed. Come see our wonderful Zen Japanese Garden, and find out why Harper is a place you will be proud to call home!﻿",
-        "images": ["https://capi.myleasestar.com/v2/dimg/44321730/1092x544/44321730.jpg", "https://capi.myleasestar.com/v2/dimg/44321725/1092x544/44321725.jpg", "https://capi.myleasestar.com/v2/dimg/44321720/1092x544/44321720.jpg", "https://capi.myleasestar.com/v2/dimg/44321719/1092x544/44321719.jpg", "https://capi.myleasestar.com/v2/dimg/44321714/1092x544/44321714.jpg"],
         "properties": [
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315508/0x697/65315508.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315509/0x697/65315509.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315507/0x697/65315507.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315689/0x697/65315689.png", "https://capi.myleasestar.com/v2/dimg-crop/65315690/0x697/65315690.png"],
+                "size": 470,
                 "price": 1300,
-                "size": 470
+                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315508/0x697/65315508.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315509/0x697/65315509.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315507/0x697/65315507.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315689/0x697/65315689.png", "https://capi.myleasestar.com/v2/dimg-crop/65315690/0x697/65315690.png"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315505/0x697/65315505.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315506/0x697/65315506.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315504/0x697/65315504.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315688/0x697/65315688.png"],
+                "size": 590,
                 "price": 1220,
-                "size": 590
+                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315505/0x697/65315505.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315506/0x697/65315506.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315504/0x697/65315504.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315688/0x697/65315688.png"]
             },
             {
                 "beds": 2,
                 "baths": 1,
-                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315511/0x697/65315511.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315512/0x697/65315512.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315510/0x697/65315510.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315691/0x697/65315691.png"],
+                "size": 800,
                 "price": 1720,
-                "size": 800
+                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315511/0x697/65315511.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315512/0x697/65315512.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315510/0x697/65315510.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315691/0x697/65315691.png"]
             }
         ],
-        "provider": "Harper House"
+        "images": ["https://capi.myleasestar.com/v2/dimg/44321730/1092x544/44321730.jpg", "https://capi.myleasestar.com/v2/dimg/44321725/1092x544/44321725.jpg", "https://capi.myleasestar.com/v2/dimg/44321720/1092x544/44321720.jpg", "https://capi.myleasestar.com/v2/dimg/44321719/1092x544/44321719.jpg", "https://capi.myleasestar.com/v2/dimg/44321714/1092x544/44321714.jpg"]
     },
     {
+        "type": 0,
+        "name": "Public name of the place",
+        "provider": "Website name",
+        "description": "Description if available",
         "location": {
             "address": "address",
             "coordinates": [latitude, longitude]
         },
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "beds": beds,
         "baths": baths,
-        "description": "Description if available",
-        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "images": ["", "", "", "", ""],
-        "name": "Public name of place",
-        "price": monthlyprice,
-        "provider": "Website",
         "size": squarefeet,
-        "type": 0
+        "price": monthlyprice,
+        "images": ["", "", "", "", ""]
     },
     {
+        "type": 1,
+        "name": "Public name of the place",
+        "provider": "Website name",
+        "description": "Description if available",
         "location": {
             "address": "address",
             "coordinates": [latitude, longitude]
         },
-        "name": "Public name of place",
-        "type": 1,
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "description": "Description if available",
-        "images": ["", "", "", "", ""],
         "properties": [
             {
                 "beds": beds,
                 "baths": baths,
-                "images": ["", "", "", "", ""],
+                "size": squarefeet,
                 "price": monthlyprice,
-                "size": squarefeet
+                "images": ["", "", "", "", ""]
             }
         ],
-        "provider": "Website"
+        "images": ["", "", "", "", ""]
     }
 ]
 
@@ -305,91 +305,89 @@
 
 
 
-
-
     {
+        "type": 1,
+        "name": "Henley Apartment Homes",
+        "provider": "Henley and Remy"
+        "description": "Two amazing boutique-style communities in one ideal location. Come enjoy life in the most ideal location in Boulder, where you'll be directly across the street from Meadows Shopping Center, and just a quick step from groceries, restaurants, beauty salons, dry cleaning and convenience stores; and a quick bike ride to the bus stop, 24 Hour Fitness, and the Boulder Public Library. You’ve got two great apartments to choose from – find the one that fits you best. Contact us today to schedule a tour of our community or stop by today to find your new home! Where you choose to relax at the end of a long day is a decision we do not take lightly. That’s why we took our time when considering every detail of our spacious studio, one, two, and three bedroom floor plans and our authentic mid-century modern amenity offerings. Our homes boast private patios/balconies, in-home washer/dryers, fully-equipped modern kitchens, wood-burning fireplaces, stainless black appliances, and wood floors. At The Henley, you can enjoy true comfort in a boutique-style apartment community. There’s more outside your front door as you engage in our convenient community amenities, including an indoor pool, fitness center complete with free weights, on-site laundry, and a clubhouse with billiards. One of the features we are most proud of is access to private garages. But perhaps what takes.",
         "location": {
             "address": "635 Mohawk Drive, Boulder, CO 80303",
             "coordinates": [39.9986369, -105.237836]
         },
-        "name": "Henley Apartment Homes",
-        "type": 1,
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "description": "Two amazing boutique-style communities in one ideal location. Come enjoy life in the most ideal location in Boulder, where you'll be directly across the street from Meadows Shopping Center, and just a quick step from groceries, restaurants, beauty salons, dry cleaning and convenience stores; and a quick bike ride to the bus stop, 24 Hour Fitness, and the Boulder Public Library. You’ve got two great apartments to choose from – find the one that fits you best. Contact us today to schedule a tour of our community or stop by today to find your new home! Where you choose to relax at the end of a long day is a decision we do not take lightly. That’s why we took our time when considering every detail of our spacious studio, one, two, and three bedroom floor plans and our authentic mid-century modern amenity offerings. Our homes boast private patios/balconies, in-home washer/dryers, fully-equipped modern kitchens, wood-burning fireplaces, stainless black appliances, and wood floors. At The Henley, you can enjoy true comfort in a boutique-style apartment community. There’s more outside your front door as you engage in our convenient community amenities, including an indoor pool, fitness center complete with free weights, on-site laundry, and a clubhouse with billiards. One of the features we are most proud of is access to private garages. But perhaps what takes.",
         "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/29%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/31%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/23%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/16%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/32%20Henley.jpg"],
         "properties": [
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["", "", "", "", ""],
+                "size": 872,
                 "price": monthlyprice,
-                "size": 872
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "images": ["", "", "", "", ""],
+                "size": 921,
                 "price": monthlyprice,
-                "size": 921
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 3,
                 "baths": 2,
-                "images": ["", "", "", "", ""],
+                "size": 1505,
                 "price": monthlyprice,
-                "size": 1505
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["", "", "", "", ""],
+                "size": 1260,
                 "price": 2195,
-                "size": 1260
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 1,
                 "baths": 1.5,
-                "images": ["", "", "", "", ""],
+                "size": 970,
                 "price": 1520,
-                "size": 970
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 2,
                 "baths": 1.5,
-                "images": ["", "", "", "", ""],
+                "size": 1120,
                 "price": 2000,
-                "size": 1120
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 0,
                 "baths": 1,
-                "images": ["", "", "", "", ""],
+                "size": 400,
                 "price": 1600,
-                "size": 400
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 2,
                 "baths": 2.5,
-                "images": ["", "", "", "", ""],
+                "size": 1365,
                 "price": 2250,
-                "size": 1365
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 1,
                 "baths": 1.5,
-                "images": ["", "", "", "", ""],
+                "size": 1148,
                 "price": 1755,
-                "size": 1148
+                "images": ["", "", "", "", ""]
             },
             {
                 "beds": 2,
                 "baths": 2,
-                "images": ["", "", "", "", ""],
+                "size": 1075,
                 "price": 2000,
-                "size": 1075
+                "images": ["", "", "", "", ""]
             }
         ],
-        "provider": "Henley and Remy"
     },
 
 
