@@ -685,7 +685,27 @@
         ],
         "images": ["https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/59f781513e107989.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/59f7816e52ed7886.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/5b314f6866f8c0.11522539577.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/59f7812e40d5a353.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/59f7812da6a0b284.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/5ba3cdf5579d72.76897319929.jpg"]
     },
-    
+    {
+        "type": 1,
+        "name": "Plaza on Broadway",
+        "provider": "Plaza on Broadway",
+        "description": "Welcome to Plaza on Broadway in Boulder, CO. We are a student housing community built for the students of the University of Colorado. Our Boulder apartments are located directly across from the CU campus. The two-building complex offers units that are leased individually by the bedroom and allows residents secure entry to their two, three, or four-bedroom unit homes. Every unit comes with a full washer and dryer, and private bathrooms for every bedroom. Plaza on Broadway lets you create a space that is unique, trendy, and all your own. Come live in a true community that connects CU’s campus amenities with off-campus living. The complex provides contemporary interiors, common areas equipped with TV and entertainment rooms, game area, study spaces, and safe underground parking – providing ultimate security. A sprawling courtyard adjoins the two buildings and each unit has its own deck – allowing you to relish in the outdoors. Residents will enjoy all of this while being in direct proximity to campus and Boulder’s top dining, entertainment, recreational, and shopping amenities. Apply today to make Plaza on Broadway your new home!",
+        "location": {
+            "address": "955 Broadway, Boulder, CO 80302",
+            "coordinates": [40.004486, -105.2726967]
+        },
+        "details": ["AC", "Heating", "Parking", "Washer"],
+        "properties": [
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": -1,
+                "price": 1419,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4e60018417.05825158495.png"]
+            }
+        ],
+        "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4fe600cd22.51782664203.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff377e744.39859548118.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff7507836.86892632217.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4fecdee2e3.16246156932.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff4d1b231.07755678689.jpg"]
+    },
     
     
     
