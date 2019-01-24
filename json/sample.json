@@ -2,7 +2,7 @@
     {
         "location": {
             "address": "2905 E Aurora Ave, Boulder CO 80303",
-            "coordinates": [40.0042122, -105.2554566]
+            "coordinates": [40.0042189, -105.2553355]
         },
         "name": "Blue Sky Lofts",
         "type": 1,
@@ -68,6 +68,27 @@
             }
         ],
         "provider": "Blue Sky Lofts"
+    },
+    {
+        "location": {
+            "address": "2726 Moorhead Ave, Boulder CO 80305",
+            "coordinates": [39.9986764, -105.2612561]
+        },
+        "name": "Hive Baseline",
+        "type": 1,
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "description": "Description if available",
+        "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+        "properties": [
+            {
+                "baths": # of baths,
+                "beds": # of beds,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            }
+        ],
+        "provider": "Hive Baseline"
     },
     {
         "location": {
