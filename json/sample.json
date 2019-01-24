@@ -8,7 +8,7 @@
         "type": 1,
         "details": ["AC", "Heating", "Parking"],
         "description": "We offer a stylish community that combines nostalgic character with newly renovated modern conveniences.  Our community is centrally located near bus routes, restaurants, shopping, trails & bike paths. We are only 1 block east of the University of Colorado and 2 blocks from Boulder’s 29th Street mall. The Blue Sky Lofts community is the perfect place to call home.",
-        "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+        "images": ["https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-004.jpg", "https://www.blueskylofts.net/wp-content/uploads/use-028.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-using-032.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Loftsuse-1081.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-043.jpg"],
         "properties": [
             {
                 "baths": 1,
