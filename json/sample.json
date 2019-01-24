@@ -309,13 +309,13 @@
 
     {
         "location": {
-            "address": "address",
-            "coordinates": [latitude, longitude]
+            "address": "635 Mohawk Drive, Boulder, CO 80303",
+            "coordinates": [39.9986369, -105.237836]
         },
-        "name": "Name of place",
+        "name": "Henley and Remy",
         "type": 1,
-        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "description": "Description if available",
+        "details": [+"AC", "Gym", +"Heating", "Parking", +"Cats", +"Dogs", +"Pool", "Washer"],
+        "description": "Two amazing boutique-style communities in one ideal location. Come enjoy life in the most ideal location in Boulder, where you'll be directly across the street from Meadows Shopping Center, and just a quick step from groceries, restaurants, beauty salons, dry cleaning and convenience stores; and a quick bike ride to the bus stop, 24 Hour Fitness, and the Boulder Public Library. You’ve got two great apartments to choose from – find the one that fits you best. Contact us today to schedule a tour of our community or stop by today to find your new home!",
         "images": ["", "", ""],
         "properties": [
             {
@@ -326,7 +326,7 @@
                 "size": squarefeet
             }
         ],
-        "provider": "Website Name"
+        "provider": "Henley and Remy"
     },
 
 
