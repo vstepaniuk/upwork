@@ -1,0 +1,88 @@
+[
+    {
+        "location": {
+            "address": "2905 E Aurora Ave, Boulder CO 80303",
+            "coordinates": [40.0042122, -105.2554566]
+        },
+        "baths": # of baths,
+        "beds": # of beds,
+        "description": "Description if available",
+        "details": ["AC", "Gym", "Heating", "Parking", "Pool", "Washer"],
+        "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+        "name": "Name of place",
+        "price": monthlyprice,
+        "provider": "Website Name",
+        "size": squarefeet,
+        "type": 0
+    },
+    {
+        "location": {
+            "address": "address",
+            "coordinates": [latitude, longitude]
+        },
+        "name": "Name of place",
+        "type": 1,
+        "details": ["AC", "Gym", "Heating", "Parking", "Washer"],
+        "description": "Description if available",
+        "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+        "properties": [
+            {
+                "baths": 1,
+                "beds": 0,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": 1025,
+                "size": 0
+            },
+            {
+                "baths": 1,
+                "beds": 1,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": 1125,
+                "size": squarefeet
+            },
+            {
+                "baths": 1,
+                "beds": 1,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": 1225,
+                "size": squarefeet
+            },
+            {
+                "baths": 1,
+                "beds": 1,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": 1225,
+                "size": squarefeet
+            },
+            {
+                "baths": 1,
+                "beds": 0,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": 1100,
+                "size": squarefeet
+            },
+            {
+                "baths": 1,
+                "beds": 0,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": 1225,
+                "size": squarefeet
+            },
+            {
+                "baths": 1,
+                "beds": 1,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": 1025,
+                "size": squarefeet
+            },
+            {
+                "baths": 1,
+                "beds": 1,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": 1025,
+                "size": squarefeet
+            }
+        ],
+        "provider": "Website Name"
+    }
+]
