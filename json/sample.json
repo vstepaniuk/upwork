@@ -13,61 +13,61 @@
             {
                 "beds": 0,
                 "baths": 1,
-                "size": 0,
+                "size": -1,
                 "price": 1025,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/lodgepole.jpg","https://www.blueskylofts.net/wp-content/uploads/lodgepole2.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "size": 0,
+                "size": -1,
                 "price": 1125,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/divide.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide2.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide3.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "size": 0,
+                "size": -1,
                 "price": 1225,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/divide4.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "size": 0,
+                "size": -1,
                 "price": 1225,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/cloud.jpg"]
             },
             {
                 "beds": 0,
                 "baths": 1,
-                "size": 0,
+                "size": -1,
                 "price": 1100,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/northwoods.jpg", "https://www.blueskylofts.net/wp-content/uploads/northwoods2.jpg"]
             },
             {
                 "beds": 0,
                 "baths": 1,
-                "size": 0,
+                "size": -1,
                 "price": 1225,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/legend.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "size": 0,
+                "size": -1,
                 "price": 1025,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
-                "size": 0,
+                "size": -1,
                 "price": 1025,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest2.jpg"]
             }
         ],
-        "images": ["https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-004.jpg", "https://www.blueskylofts.net/wp-content/uploads/use-028.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-using-032.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Loftsuse-1081.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-043.jpg"]
+        "images": ["https://www.blueskylofts.net/wp-content/uploads/BSL-0007.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-004.jpg", "https://www.blueskylofts.net/wp-content/uploads/use-028.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-using-032.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Loftsuse-1081.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-043.jpg"]
     },
     {
         "type": 1,
@@ -144,7 +144,7 @@
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Red%20Rocks.jpg"]
             }
         ],
-        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Pool.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Monument%20Sign.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Courtyard.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202776.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202760.jpg"]
+        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Monument%20Sign.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Pool.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Courtyard.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202776.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202760.jpg"]
     },
     {
         "type": 1,
@@ -161,14 +161,14 @@
                 "beds": 0,
                 "baths": 1,
                 "size": 562,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/niwotloop.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
                 "size": 712,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lefthandcanyon.jpg"]
             },
             {
@@ -182,42 +182,42 @@
                 "beds": 1,
                 "baths": 1,
                 "size": 804,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lobotrail.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "size": 960,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/boulderfalls.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "size": 947,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/peaktopeak.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "size": 975,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/royalarch.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "size": 1006,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/twinlakes.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "size": 1033,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/haystackmountain.jpg"]
             }
         ],
@@ -256,76 +256,38 @@
                 "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315511/0x697/65315511.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315512/0x697/65315512.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315510/0x697/65315510.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315691/0x697/65315691.png"]
             }
         ],
-        "images": ["https://capi.myleasestar.com/v2/dimg/44321730/1092x544/44321730.jpg", "https://capi.myleasestar.com/v2/dimg/44321725/1092x544/44321725.jpg", "https://capi.myleasestar.com/v2/dimg/44321720/1092x544/44321720.jpg", "https://capi.myleasestar.com/v2/dimg/44321719/1092x544/44321719.jpg", "https://capi.myleasestar.com/v2/dimg/44321714/1092x544/44321714.jpg"]
-    },
-    {
-        "type": 0,
-        "name": "Public name of the place",
-        "provider": "Website name",
-        "description": "Description if available",
-        "location": {
-            "address": "address",
-            "coordinates": [latitude, longitude]
-        },
-        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "beds": beds,
-        "baths": baths,
-        "size": squarefeet,
-        "price": monthlyprice,
-        "images": ["", "", "", "", ""]
+        "images": ["https://capi.myleasestar.com/v2/dimg/42779524/1092x544/42779524.jpg", "https://capi.myleasestar.com/v2/dimg/44321730/1092x544/44321730.jpg", "https://capi.myleasestar.com/v2/dimg/44321725/1092x544/44321725.jpg", "https://capi.myleasestar.com/v2/dimg/44321720/1092x544/44321720.jpg", "https://capi.myleasestar.com/v2/dimg/44321719/1092x544/44321719.jpg", "https://capi.myleasestar.com/v2/dimg/44321714/1092x544/44321714.jpg"]
     },
     {
         "type": 1,
-        "name": "Public name of the place",
-        "provider": "Website name",
-        "description": "Description if available",
-        "location": {
-            "address": "address",
-            "coordinates": [latitude, longitude]
-        },
-        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "properties": [
-            {
-                "beds": beds,
-                "baths": baths,
-                "size": squarefeet,
-                "price": monthlyprice,
-                "images": ["", "", "", "", ""]
-            }
-        ],
-        "images": ["", "", "", "", ""]
-    },
-    {
-        "type": 1,
-        "name": "Henley Apartment Homes",
-        "provider": "Henley and Remy"
-        "description": "Two amazing boutique-style communities in one ideal location. Come enjoy life in the most ideal location in Boulder, where you'll be directly across the street from Meadows Shopping Center, and just a quick step from groceries, restaurants, beauty salons, dry cleaning and convenience stores; and a quick bike ride to the bus stop, 24 Hour Fitness, and the Boulder Public Library. You’ve got two great apartments to choose from – find the one that fits you best. Contact us today to schedule a tour of our community or stop by today to find your new home! Where you choose to relax at the end of a long day is a decision we do not take lightly. That’s why we took our time when considering every detail of our spacious studio, one, two, and three bedroom floor plans and our authentic mid-century modern amenity offerings. Our homes boast private patios/balconies, in-home washer/dryers, fully-equipped modern kitchens, wood-burning fireplaces, stainless black appliances, and wood floors. At The Henley, you can enjoy true comfort in a boutique-style apartment community. There’s more outside your front door as you engage in our convenient community amenities, including an indoor pool, fitness center complete with free weights, on-site laundry, and a clubhouse with billiards. One of the features we are most proud of is access to private garages. But perhaps what takes.",
+        "name": "Henley and Remy",
+        "provider": "Henley and Remy",
+        "description": "Two amazing boutique-style communities in one ideal location. Come enjoy life in the most ideal location in Boulder, where you'll be directly across the street from Meadows Shopping Center, and just a quick step from groceries, restaurants, beauty salons, dry cleaning and convenience stores; and a quick bike ride to the bus stop, 24 Hour Fitness, and the Boulder Public Library. You’ve got two great apartments to choose from – find the one that fits you best. Contact us today to schedule a tour of our community or stop by today to find your new home! Where you choose to relax at the end of a long day is a decision we do not take lightly. That’s why we took our time when considering every detail of our spacious studio, one, two, and three bedroom floor plans and our authentic mid-century modern amenity offerings. Our homes boast private patios/balconies, in-home washer/dryers, fully-equipped modern kitchens, wood-burning fireplaces, stainless black appliances, and wood floors. At The Henley, you can enjoy true comfort in a boutique-style apartment community. There’s more outside your front door as you engage in our convenient community amenities, including an indoor pool, fitness center complete with free weights, on-site laundry, and a clubhouse with billiards. One of the features we are most proud of is access to private garages. But perhaps what takes. We know how to make your apartment feel more like home. With spacious two bedroom floor plans that spare no detail, our collection of authentic mid-century modern amenities make for the most comfortable living adventure. Our pet-friendly community is equipped everything to take living to the next level. Come revel in the details of your new home and cozy up with your favorite drink next to your brand new wood-burning fireplace. See for yourself or contact us today to schedule a tour. Remy in Boulder is full of things to admire – new wood floors, stainless black appliances, beautiful cabinetry and Quartz counter tops, in-home washer/dryer, walk-in closets, patio/balcony, and wood-burning fireplaces. And that’s just the beginning. What we love most about our community here at Remy are the shared amenities. Relax by our sparkling outdoor pool, enjoy the crisp nights by the fire, and feel secure knowing you have designated parking.",
         "location": {
             "address": "635 Mohawk Drive, Boulder, CO 80303",
             "coordinates": [39.9986369, -105.237836]
         },
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/29%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/31%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/23%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/16%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/32%20Henley.jpg"],
         "properties": [
             {
                 "beds": 1,
                 "baths": 1,
                 "size": 872,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A1.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A1%202d.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
                 "size": 921,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A2.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A2%202d.jpg"]
             },
             {
                 "beds": 3,
                 "baths": 2,
                 "size": 1505,
-                "price": call_for_price,
+                "price": -1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/c1.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/c1%202d.jpg"]
             },
             {
@@ -378,20 +340,67 @@
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/b1.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/2d%20b1.jpg"]
             }
         ],
+        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/135%20Henley.png", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/31%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/23%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/17%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/16%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/32%20Henley.jpg",  "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/1%20Remy.png", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/0%20Remy.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/8%20Remy.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/4%20Remy.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/12%20Remy.jpg","https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/11%20Remy.jpg"]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+        "type": 0,
+        "name": "Public name of the place",
+        "provider": "Website name",
+        "description": "Description if available",
+        "location": {
+            "address": "address",
+            "coordinates": [latitude, longitude]
+        },
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "beds": beds,
+        "baths": baths,
+        "size": squarefeet,
+        "price": monthlyprice,
+        "images": ["", "", "", "", ""]
+    },
+    {
+        "type": 1,
+        "name": "Public name of the place",
+        "provider": "Website name",
+        "description": "Description if available",
+        "location": {
+            "address": "address",
+            "coordinates": [latitude, longitude]
+        },
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "properties": [
+            {
+                "beds": beds,
+                "baths": baths,
+                "size": squarefeet,
+                "price": monthlyprice,
+                "images": ["", "", "", "", ""]
+            }
+        ],
+        "images": ["", "", "", "", ""]
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
