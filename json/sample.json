@@ -11,57 +11,57 @@
         "images": ["https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-004.jpg", "https://www.blueskylofts.net/wp-content/uploads/use-028.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-using-032.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Loftsuse-1081.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-043.jpg"],
         "properties": [
             {
-                "beds": 0,
                 "baths": 1,
+                "beds": 0,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/lodgepole.jpg","https://www.blueskylofts.net/wp-content/uploads/lodgepole2.jpg"],
                 "price": 1025,
                 "size": 0
             },
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/divide.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide2.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide3.jpg"],
                 "price": 1125,
                 "size": 0
             },
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/divide4.jpg"],
                 "price": 1225,
                 "size": 0
             },
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/cloud.jpg"],
                 "price": 1225,
                 "size": 0
             },
             {
-                "beds": 0,
                 "baths": 1,
+                "beds": 0,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/northwoods.jpg", "https://www.blueskylofts.net/wp-content/uploads/northwoods2.jpg"],
                 "price": 1100,
                 "size": 0
             },
             {
-                "beds": 0,
                 "baths": 1,
+                "beds": 0,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/legend.jpg"],
                 "price": 1225,
                 "size": 0
             },
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest.jpg"],
                 "price": 1025,
                 "size": 0
             },
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest2.jpg"],
                 "price": 1025,
                 "size": 0
