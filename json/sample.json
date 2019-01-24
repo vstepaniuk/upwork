@@ -161,14 +161,14 @@
                 "beds": 0,
                 "baths": 1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/niwotloop.jpg"],
-                "price": monthlyprice,
+                "price": call_for_price,
                 "size": 562
             },
             {
                 "beds": 1,
                 "baths": 1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lefthandcanyon.jpg"],
-                "price": monthlyprice,
+                "price": call_for_price,
                 "size": 712
             },
             {
@@ -182,42 +182,42 @@
                 "beds": 1,
                 "baths": 1,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lobotrail.jpg"],
-                "price": monthlyprice,
+                "price": call_for_price,
                 "size": 804
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/boulderfalls.jpg"],
-                "price": monthlyprice,
+                "price": call_for_price,
                 "size": 960
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/peaktopeak.jpg"],
-                "price": monthlyprice,
+                "price": call_for_price,
                 "size": 947
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/royalarch.jpg"],
-                "price": monthlyprice,
+                "price": call_for_price,
                 "size": 975
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/twinlakes.jpg"],
-                "price": monthlyprice,
+                "price": call_for_price,
                 "size": 1006
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/haystackmountain.jpg"],
-                "price": monthlyprice,
+                "price": call_for_price,
                 "size": 1033
             }
         ],
