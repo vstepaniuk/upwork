@@ -267,7 +267,7 @@
         "baths": baths,
         "description": "Description if available",
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "images": ["", "", ""],
+        "images": ["", "", "", "", ""],
         "name": "Name of place",
         "price": monthlyprice,
         "provider": "Website Name",
@@ -283,12 +283,12 @@
         "type": 1,
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "description": "Description if available",
-        "images": ["", "", ""],
+        "images": ["", "", "", "", ""],
         "properties": [
             {
                 "beds": beds,
                 "baths": baths,
-                "images": ["", "", ""],
+                "images": ["", "", "", "", ""],
                 "price": monthlyprice,
                 "size": squarefeet
             }
@@ -312,16 +312,16 @@
             "address": "635 Mohawk Drive, Boulder, CO 80303",
             "coordinates": [39.9986369, -105.237836]
         },
-        "name": "Henley and Remy",
+        "name": "Henley Apartment Homes",
         "type": 1,
-        "details": [+"AC", "Gym", +"Heating", "Parking", +"Cats", +"Dogs", +"Pool", "Washer"],
-        "description": "Two amazing boutique-style communities in one ideal location. Come enjoy life in the most ideal location in Boulder, where you'll be directly across the street from Meadows Shopping Center, and just a quick step from groceries, restaurants, beauty salons, dry cleaning and convenience stores; and a quick bike ride to the bus stop, 24 Hour Fitness, and the Boulder Public Library. You’ve got two great apartments to choose from – find the one that fits you best. Contact us today to schedule a tour of our community or stop by today to find your new home!",
-        "images": ["", "", ""],
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "description": "Two amazing boutique-style communities in one ideal location. Come enjoy life in the most ideal location in Boulder, where you'll be directly across the street from Meadows Shopping Center, and just a quick step from groceries, restaurants, beauty salons, dry cleaning and convenience stores; and a quick bike ride to the bus stop, 24 Hour Fitness, and the Boulder Public Library. You’ve got two great apartments to choose from – find the one that fits you best. Contact us today to schedule a tour of our community or stop by today to find your new home! Where you choose to relax at the end of a long day is a decision we do not take lightly. That’s why we took our time when considering every detail of our spacious studio, one, two, and three bedroom floor plans and our authentic mid-century modern amenity offerings. Our homes boast private patios/balconies, in-home washer/dryers, fully-equipped modern kitchens, wood-burning fireplaces, stainless black appliances, and wood floors. At The Henley, you can enjoy true comfort in a boutique-style apartment community. There’s more outside your front door as you engage in our convenient community amenities, including an indoor pool, fitness center complete with free weights, on-site laundry, and a clubhouse with billiards. One of the features we are most proud of is access to private garages. But perhaps what takes.",
+        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/32%20Henley.jpg?&quality=85&width=956&height=637&mode=max", "", "", "", ""],
         "properties": [
             {
                 "beds": beds,
                 "baths": baths,
-                "images": ["", "", ""],
+                "images": ["", "", "", "", ""],
                 "price": monthlyprice,
                 "size": squarefeet
             }
