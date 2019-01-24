@@ -1,7 +1,7 @@
 [
     {
         "location": {
-            "address": "2905 E Aurora Ave, Boulder CO 80303",
+            "address": "2905 E Aurora Ave, Boulder, CO 80303",
             "coordinates": [40.0042189, -105.2553355]
         },
         "name": "Blue Sky Lofts",
@@ -71,7 +71,7 @@
     },
     {
         "location": {
-            "address": "2726 Moorhead Ave, Boulder CO 80305",
+            "address": "2726 Moorhead Ave, Boulder, CO 80305",
             "coordinates": [39.9986764, -105.2612561]
         },
         "name": "The Hive Baseline",
@@ -148,14 +148,91 @@
     },
     {
         "location": {
+            "address": "6655 Lookout Rd, Boulder, CO 80301",
+            "coordinates": [40.0734793, -105.2690366]
+        },
+        "name": "Boulder View Apartments",
+        "type": 1,
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "description": "Welcome to your new home at Boulder View Apartments in Boulder, Colorado! Nestled in the heart of Boulder, Boulder View Apartments offers all the rewards and comforts of high-class living. Whether it be a relaxing night of beautiful Boulder views or a night out on the town, Boulder View gives you the features you’re looking for at the price you want. Just minutes from Boulder's finest shopping and dining, you get the benefits of city living, combined with comforting amenities. Boulder is a nature enthusiast's paradise! Consider your new Boulder home as part natural playground, part luxury, and 100% home! Just minutes away from CU Boulder and downtown Boulder, our convenient location puts you right at the center of the action. Learn the difference that better living can make!",
+        "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/bd6071b9b369492e0abd159689a37edc.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/3806d43dc3ce431bbd22677b2fd45fb3.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/2ec1a1a33c375e9aa7906aa9a3287693.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/8545cdd39f94eeea6bbef8aceca705a1.jpg", "https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/gallery/1872b0bed57d504f5533512b75679c14.jpg"],
+        "properties": [
+            {
+                "beds": 0,
+                "baths": 1,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/niwotloop.jpg"],
+                "price": monthlyprice,
+                "size": 562
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lefthandcanyon.jpg"],
+                "price": monthlyprice,
+                "size": 712
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/theflatiron.jpg"],
+                "price": 1717,
+                "size": 751
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/lobotrail.jpg"],
+                "price": monthlyprice,
+                "size": 804
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/boulderfalls.jpg"],
+                "price": monthlyprice,
+                "size": 960
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/peaktopeak.jpg"],
+                "price": monthlyprice,
+                "size": 947
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/royalarch.jpg"],
+                "price": monthlyprice,
+                "size": 975
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/twinlakes.jpg"],
+                "price": monthlyprice,
+                "size": 1006
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "images": ["https://s3-us-west-2.amazonaws.com/mktapts/images/bascom/139BDV/floorplans/haystackmountain.jpg"],
+                "price": monthlyprice,
+                "size": 1033
+            }
+        ],
+        "provider": "Boulder View Apartments"
+    },
+    {
+        "location": {
             "address": "address",
             "coordinates": [latitude, longitude]
         },
-        "beds": # of beds,
-        "baths": # of baths,
+        "beds": beds,
+        "baths": baths,
         "description": "Description if available",
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+        "images": ["", "", ""],
         "name": "Name of place",
         "price": monthlyprice,
         "provider": "Website Name",
@@ -171,12 +248,12 @@
         "type": 1,
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "description": "Description if available",
-        "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+        "images": ["", "", ""],
         "properties": [
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "beds": beds,
+                "baths": baths,
+                "images": ["", "", ""],
                 "price": monthlyprice,
                 "size": squarefeet
             }
@@ -184,3 +261,46 @@
         "provider": "Website Name"
     }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "location": {
+            "address": "",
+            "coordinates": []
+        },
+        "name": "",
+        "type": 1,
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "description": "",
+        "images": ["", "", "", "", ""],
+        "properties": [
+            {
+                "beds": beds,
+                "baths": baths,
+                "images": ["", "", ""],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": beds,
+                "baths": baths,
+                "images": ["", "", ""],
+                "price": monthlyprice,
+                "size": squarefeet
+            }
+        ],
+        "provider": "Boulder View Apartments"
+    }
+
