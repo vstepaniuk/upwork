@@ -225,6 +225,41 @@
     },
     {
         "location": {
+            "address": "4920 Thunderbird Circle, Boulder, CO 80303",
+            "coordinates": [39.9887971, -105.234745]
+        },
+        "name": "Harper House apartments",
+        "type": 1,
+        "details": ["AC", "Heating", "Parking", "Pool", "Washer"],
+        "description": "See why our residents call our community home!!! Treat yourself to a refreshingly uncommon apartment experience. Here at Harper House, where comfort and serenity come naturally, you can find a sanctuary that is both centrally located and fabulously removed. Come see our wonderful Zen Japanese Garden, and find out why Harper is a place you will be proud to call home!﻿",
+        "images": ["https://capi.myleasestar.com/v2/dimg/44321730/1092x544/44321730.jpg", "https://capi.myleasestar.com/v2/dimg/44321725/1092x544/44321725.jpg", "https://capi.myleasestar.com/v2/dimg/44321720/1092x544/44321720.jpg", "https://capi.myleasestar.com/v2/dimg/44321719/1092x544/44321719.jpg", "https://capi.myleasestar.com/v2/dimg/44321714/1092x544/44321714.jpg"],
+        "properties": [
+            {
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315508/0x697/65315508.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315509/0x697/65315509.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315507/0x697/65315507.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315689/0x697/65315689.png", "https://capi.myleasestar.com/v2/dimg-crop/65315690/0x697/65315690.png"],
+                "price": 1300,
+                "size": 470
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315505/0x697/65315505.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315506/0x697/65315506.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315504/0x697/65315504.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315688/0x697/65315688.png"],
+                "price": 1220,
+                "size": 590
+            },
+            {
+                "beds": 2,
+                "baths": 1,
+                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315511/0x697/65315511.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315512/0x697/65315512.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315510/0x697/65315510.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315691/0x697/65315691.png"],
+                "price": 1720,
+                "size": 800
+            }
+        ],
+        "provider": "Harper House"
+    },
+    {
+        "location": {
             "address": "address",
             "coordinates": [latitude, longitude]
         },
@@ -272,42 +307,29 @@
 
 
 
-
-
-
     {
         "location": {
-            "address": "4920 Thunderbird Circle, Boulder, CO 80303",
-            "coordinates": [39.9887971, -105.234745]
+            "address": "address",
+            "coordinates": [latitude, longitude]
         },
-        "name": "Harper House apartments",
+        "name": "Name of place",
         "type": 1,
-        "details": ["AC", "Heating", "Parking", "Pool", "Washer"],
-        "description": "See why our residents call our community home!!! Treat yourself to a refreshingly uncommon apartment experience. Here at Harper House, where comfort and serenity come naturally, you can find a sanctuary that is both centrally located and fabulously removed. Come see our wonderful Zen Japanese Garden, and find out why Harper is a place you will be proud to call home!﻿",
-        "images": ["https://capi.myleasestar.com/v2/dimg/44321730/1092x544/44321730.jpg", "https://capi.myleasestar.com/v2/dimg/44321725/1092x544/44321725.jpg", "https://capi.myleasestar.com/v2/dimg/44321720/1092x544/44321720.jpg", "https://capi.myleasestar.com/v2/dimg/44321719/1092x544/44321719.jpg", "https://capi.myleasestar.com/v2/dimg/44321714/1092x544/44321714.jpg"],
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "description": "Description if available",
+        "images": ["", "", ""],
         "properties": [
             {
-                "beds": 1,
-                "baths": 1,
-                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315508/0x697/65315508.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315509/0x697/65315509.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315507/0x697/65315507.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315689/0x697/65315689.png", "https://capi.myleasestar.com/v2/dimg-crop/65315690/0x697/65315690.png"],
-                "price": 1300,
-                "size": 470
-            },
-            {
-                "beds": 1,
-                "baths": 1,
-                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315505/0x697/65315505.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315506/0x697/65315506.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315504/0x697/65315504.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315688/0x697/65315688.png"],
-                "price": 1220,
-                "size": 590
-            },
-            {
-                "beds": 2,
-                "baths": 1,
+                "beds": beds,
+                "baths": baths,
                 "images": ["", "", ""],
-                "price": 1720,
-                "size": 800
+                "price": monthlyprice,
+                "size": squarefeet
             }
         ],
-        "provider": "Harper House"
-    }
+        "provider": "Website Name"
+    },
+
+
+
+
 
