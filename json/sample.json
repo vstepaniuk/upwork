@@ -81,64 +81,64 @@
         "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
         "properties": [
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/baseline.jpg"],
                 "price": 1665,
                 "size": 434
             },
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Broadway.jpg"],
                 "price": 1800,
                 "size": 680
             },
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Hill.jpg"],
                 "price": 1805,
                 "size": 689
             },
             {
-                "beds": 1,
                 "baths": 1,
+                "beds": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Pearl.jpg"],
                 "price": 1750,
                 "size": 725
             },
             {
-                "beds": 2,
                 "baths": 1,
+                "beds": 2,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Fox.jpg"],
                 "price": 2190,
                 "size": 896
             },
             {
-                "beds": 2,
                 "baths": 1.5,
+                "beds": 2,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Fillmore.jpg"],
                 "price": 2200,
                 "size": 927
             },
             {
-                "beds": 2,
                 "baths": 2,
+                "beds": 2,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Bluebird%20(1).jpg"],
                 "price": 2300,
                 "size": 924
             },
             {
-                "beds": 2,
                 "baths": 2,
+                "beds": 2,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Ogden.jpg"],
                 "price": 927,
                 "size": 2470
             },
             {
-                "beds": 3,
                 "baths": 2,
+                "beds": 3,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Red%20Rocks.jpg"],
                 "price": 1221,
                 "size": 3000
