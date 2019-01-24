@@ -566,7 +566,125 @@
         ],
         "images": ["https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/003-300-Volleyball-Gallery.jpg", "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/001-300-Exterior1-Gallery.jpg", "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/005-300-Clubhouse2-Gallery.jpg", "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/008-300-FitnessCenter1-Gallery.jpg", "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/011-300-LivingRoom-Gallery.jpg",  "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/013-300-Bedroom2-Gallery.jpg"]
     },
-    
+    {
+        "type": 1,
+        "name": "Uptown Broadway",
+        "provider": "Uptown Broadway",
+        "description": "Uptown Broadway is leasing gorgeous one and two-bedroom loft, flat and town home apartments in Boulder, CO. Conveniently located in a vibrant neighborhood and surrounded by high-end restaurants, fantastic shopping, and endless natural beauty. Uptown Broadway offers easy access to everything you know and love about Boulder. With public transportation just a short walk away, the entire metro area is at your finger tips. Our community is also nestled between dozens of urban parks and mountainous peaks. Hit the bike trails with your friends, stroll through Pearl Street Mall or head to Folsom Stadium for the big game. This uptown urban oasis has everything you need to live the ultimate lifestyle your deserve.",
+        "location": {
+            "address": "4560 13th St #105, Boulder, CO 80304",
+            "coordinates": [40.0571829, -105.2830877]
+        },
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Washer"],
+        "properties": [
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 636,
+                "price": 1686,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b7242e05ef3.91457458198.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 789,
+                "price": 1806,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b725837b4a1.88457757808.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1.5,
+                "size": 968,
+                "price": 1990,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b72b5952b19.18093594453.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1.5,
+                "size": 955,
+                "price": 1972,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b7268836c35.49849740219.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1.5,
+                "size": 976,
+                "price": 1990,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b72a4b27ef4.03224074418.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1.5,
+                "size": 952,
+                "price": 1954,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b723028d4c2.99544898313.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 708,
+                "price": 1740,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b7280d0faa8.04683224678.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 619,
+                "price": 1625,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b7208af6469.28335171305.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 730,
+                "price": 1690,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b721d896c98.49244785510.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1.5,
+                "size": 933,
+                "price": 1972,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b7291f34767.64573359584.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 1.5,
+                "size": 1032,
+                "price": 2077,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b72ca871e32.13012236751.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 1.5,
+                "size": 1073,
+                "price": 2094,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b72db7c95a5.88763408221.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 1086,
+                "price": 2125,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b72eca5a730.05721856923.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2.5,
+                "size": 1206,
+                "price": 2435,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b731780b4c8.01538658584.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2.5,
+                "size": 1146,
+                "price": 2223,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/2342/5a7b7308e0f706.63358936634.jpg"]
+            }
+        ],
+        "images": ["https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/59f781513e107989.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/59f7816e52ed7886.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/5b314f6866f8c0.11522539577.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/59f7812e40d5a353.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/59f7812da6a0b284.jpg", "https://commoncdn.entrata.com/images/thumbNailer.php?src=/media_library/2342/5ba3cdf5579d72.76897319929.jpg"]
+    },
     
     
     
