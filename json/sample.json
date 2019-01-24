@@ -277,30 +277,37 @@
 
     {
         "location": {
-            "address": "",
-            "coordinates": []
+            "address": "4920 Thunderbird Circle, Boulder, CO 80303",
+            "coordinates": [39.9887971, -105.234745]
         },
-        "name": "",
+        "name": "Harper House apartments",
         "type": 1,
-        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "description": "",
-        "images": ["", "", "", "", ""],
+        "details": ["AC", "Heating", "Parking", "Pool", "Washer"],
+        "description": "See why our residents call our community home!!! Treat yourself to a refreshingly uncommon apartment experience. Here at Harper House, where comfort and serenity come naturally, you can find a sanctuary that is both centrally located and fabulously removed. Come see our wonderful Zen Japanese Garden, and find out why Harper is a place you will be proud to call home!﻿",
+        "images": ["https://capi.myleasestar.com/v2/dimg/44321730/1092x544/44321730.jpg", "https://capi.myleasestar.com/v2/dimg/44321725/1092x544/44321725.jpg", "https://capi.myleasestar.com/v2/dimg/44321720/1092x544/44321720.jpg", "https://capi.myleasestar.com/v2/dimg/44321719/1092x544/44321719.jpg", "https://capi.myleasestar.com/v2/dimg/44321714/1092x544/44321714.jpg"],
         "properties": [
             {
-                "beds": beds,
-                "baths": baths,
-                "images": ["", "", ""],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315508/0x697/65315508.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315509/0x697/65315509.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315507/0x697/65315507.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315689/0x697/65315689.png", "https://capi.myleasestar.com/v2/dimg-crop/65315690/0x697/65315690.png"],
+                "price": 1300,
+                "size": 470
             },
             {
-                "beds": beds,
-                "baths": baths,
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://capi.myleasestar.com/v2/dimg-crop/65315505/0x697/65315505.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315506/0x697/65315506.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315504/0x697/65315504.jpg", "https://capi.myleasestar.com/v2/dimg-crop/65315688/0x697/65315688.png"],
+                "price": 1220,
+                "size": 590
+            },
+            {
+                "beds": 2,
+                "baths": 1,
                 "images": ["", "", ""],
-                "price": monthlyprice,
-                "size": squarefeet
+                "price": 1720,
+                "size": 800
             }
         ],
-        "provider": "Boulder View Apartments"
+        "provider": "Harper House"
     }
 
