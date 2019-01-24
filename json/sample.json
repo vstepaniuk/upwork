@@ -811,7 +811,48 @@
         ],
         "images": ["http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-27-Web.jpg", "http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-58-Web.jpg", "http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-57-Web.jpg", "http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-50-Web.jpg", "http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-48-Web.jpg"]
     },
-    
+    {
+        "type": 1,
+        "name": "Violet on Broadway",
+        "provider": "Violet on Broadway",
+        "description": "You are invited to visit the newest addition to the ever-growing NoBo (North Boulder) neighborhood—Violet on Broadway Apartment Homes. This community is nestled between Four Mile Creek and the rolling foothills of Boulder, Colorado. Violet on Broadway is thoughtfully designed to be an ideal place to live and play with easy access to Downtown Boulder and an abundance of parks and paved trails. The community is also located on a major bus route and is walking distance to many services. Violet on Broadway is surrounded by acres of open space and offers unique floor plans with soaring 9 to 15 foot ceilings, oversized double-hung windows, expansive views of the foothills and Four Mile Creek Open Space outside your front door. Each studio, one or two bedroom apartment home includes one to three balconies (many with foothill views), slab granite countertops, upgraded cabinetry, stainless steel appliances, washers and dryers and energy efficient lighting. Whether you are looking for convenience to downtown or serenity in the foothills, Violet on Broadway is a wonderful place to call home.",
+        "location": {
+            "address": "4456 Broadway, Boulder, CO 80304",
+            "coordinates": [40.0555772, -105.2835908]
+        },
+        "details": ["AC", "Heating", "Parking", "Cats", "Dogs", "Washer"],
+        "properties": [
+            {
+                "beds": 0,
+                "baths": 1,
+                "size": 472,
+                "price": -1,
+                "images": [""]
+            },
+            {
+                "beds": beds,
+                "baths": baths,
+                "size": squarefeet,
+                "price": monthlyprice,
+                "images": [""]
+            },
+            {
+                "beds": beds,
+                "baths": baths,
+                "size": squarefeet,
+                "price": monthlyprice,
+                "images": [""]
+            },
+            {
+                "beds": beds,
+                "baths": baths,
+                "size": squarefeet,
+                "price": monthlyprice,
+                "images": [""]
+            }
+        ],
+        "images": ["", "", "", "", ""]
+    },
     
     
     
