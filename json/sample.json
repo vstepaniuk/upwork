@@ -827,88 +827,30 @@
                 "baths": 1,
                 "size": 472,
                 "price": -1,
-                "images": [""]
+                "images": ["fp_0_1.jpeg"]
             },
             {
-                "beds": beds,
-                "baths": baths,
-                "size": squarefeet,
-                "price": monthlyprice,
-                "images": [""]
+                "beds": 1,
+                "baths": 1,
+                "size": 600,
+                "price": -1,
+                "images": ["fp_1_1.jpeg"]
             },
             {
-                "beds": beds,
-                "baths": baths,
-                "size": squarefeet,
-                "price": monthlyprice,
-                "images": [""]
+                "beds": 2,
+                "baths": 1,
+                "size": 800,
+                "price": -1,
+                "images": ["fp_2_1.jpeg"]
             },
             {
-                "beds": beds,
-                "baths": baths,
-                "size": squarefeet,
-                "price": monthlyprice,
-                "images": [""]
+                "beds": 2,
+                "baths": 2,
+                "size": 900,
+                "price": 2150,
+                "images": ["fp_2_2.jpeg"]
             }
         ],
-        "images": ["", "", "", "", ""]
-    },
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    {
-        "type": 0,
-        "name": "Public name of the place",
-        "provider": "Website name",
-        "description": "Description if available",
-        "location": {
-            "address": "address",
-            "coordinates": [latitude, longitude]
-        },
-        "details": [+"AC", "Gym", +"Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "beds": beds,
-        "baths": baths,
-        "size": squarefeet,
-        "price": monthlyprice,
-        "images": ["", "", "", "", ""]
-    },
-    {
-        "type": 1,
-        "name": "Public name of the place",
-        "provider": "Website name",
-        "description": "Description if available",
-        "location": {
-            "address": "address",
-            "coordinates": [latitude, longitude]
-        },
-        "details": [+"AC", "Gym", +"Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "properties": [
-            {
-                "beds": beds,
-                "baths": baths,
-                "size": squarefeet,
-                "price": monthlyprice,
-                "images": ["", "", "", "", ""]
-            },
-        ],
-        "images": ["", "", "", "", ""]
-    }
-    
-    
+        "images": ["photoX.jpeg", "photoX.jpeg", "photoX.jpeg", "photoX.jpeg", "photoX.jpeg"]
+    }    
 ]
