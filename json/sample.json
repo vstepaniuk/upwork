@@ -294,17 +294,7 @@
             }
         ],
         "images": ["", "", "", "", ""]
-    }
-]
-
-
-
-
-
-
-
-
-
+    },
     {
         "type": 1,
         "name": "Henley Apartment Homes",
@@ -321,74 +311,85 @@
                 "beds": 1,
                 "baths": 1,
                 "size": 872,
-                "price": monthlyprice,
-                "images": ["", "", "", "", ""]
+                "price": call_for_price,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A1.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A1%202d.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1,
                 "size": 921,
-                "price": monthlyprice,
-                "images": ["", "", "", "", ""]
+                "price": call_for_price,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A2.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A2%202d.jpg"]
             },
             {
                 "beds": 3,
                 "baths": 2,
                 "size": 1505,
-                "price": monthlyprice,
-                "images": ["", "", "", "", ""]
+                "price": call_for_price,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/c1.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/c1%202d.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "size": 1260,
                 "price": 2195,
-                "images": ["", "", "", "", ""]
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/b3.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/b3%202d.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1.5,
                 "size": 970,
                 "price": 1520,
-                "images": ["", "", "", "", ""]
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A3.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/A3%202d.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 1.5,
                 "size": 1120,
                 "price": 2000,
-                "images": ["", "", "", "", ""]
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/B1(1).jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/B1%202d.jpg"]
             },
             {
                 "beds": 0,
                 "baths": 1,
                 "size": 400,
                 "price": 1600,
-                "images": ["", "", "", "", ""]
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/ST1.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/ST1%202d.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2.5,
                 "size": 1365,
                 "price": 2250,
-                "images": ["", "", "", "", ""]
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/b4.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/b4%202d.jpg"]
             },
             {
                 "beds": 1,
                 "baths": 1.5,
                 "size": 1148,
                 "price": 1755,
-                "images": ["", "", "", "", ""]
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/a4.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/a4%202d.jpg"]
             },
             {
                 "beds": 2,
                 "baths": 2,
                 "size": 1075,
                 "price": 2000,
-                "images": ["", "", "", "", ""]
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/b1.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/2d%20b1.jpg"]
             }
         ],
-    },
+    }
+]
+
+
+
+
+
+
+
+
+
+
 
 
 
