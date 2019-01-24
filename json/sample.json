@@ -503,7 +503,34 @@
         ],
         "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7910%204500.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7922%204500.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7934%204500(1).jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7957%204500.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7950%204500.jpg"]
     },    
-    
+    {
+        "type": 1,
+        "name": "U Club on 28th",
+        "provider": "U Club on 28th",
+        "description": "Live, learn, and thrive! Walk-to-class convenience. Stay-fit amenities. Tools that help you make the grade. And community events that keep you connected. All make U Club on 28th the premier student housing choice at University of Colorado Boulder. Get the lifestyle you want with our fully furnished apartments featuring private bedroom and bathroom floor plans, state-of-the-art fitness center and Academic Success Center! Plus, our professional on-site management and staff dedicated to serving your needs and helping you enjoy your college experience at CU.",
+        "location": {
+            "address": "820 28th St, Boulder, CO 80303",
+            "coordinates": [40.002919, -105.259731]
+        },
+        "details": ["AC", "Gym", "Heating", "Parking", "Pool", "Washer"],
+        "properties": [
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": -1,
+                "price": 1234,
+                "images": ["https://www.americancampus.com/assets/301-uclubon28th/floorplans/4-Bed-4-Bath-Waitlist.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": -1,
+                "price": 1254,
+                "images": ["https://www.americancampus.com/assets/301-uclubon28th/floorplans/4-Bed-4-Bath-Large-Waitlist.png"]
+            }
+        ],
+        "images": ["https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-13-InteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-01-ExteriorBuildings-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-03-ExteriorBuildings-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-06-ExteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-16-InteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-14-InteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-23-InteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-24-InteriorAmenities-Gallery.jpg"]
+    },
     
     
     
