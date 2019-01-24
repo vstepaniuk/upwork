@@ -697,11 +697,60 @@
         "details": ["AC", "Heating", "Parking", "Washer"],
         "properties": [
             {
+                "beds": 2,
+                "baths": 2,
+                "size": -1,
+                "price": -1,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4dd8a195c3.71860380410.png"]
+            },
+            {
+                "beds": 3,
+                "baths": 3,
+                "size": -1,
+                "price": -1,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4e0f4eff01.94991894782.png"]
+            },
+            {
+                "beds": 3,
+                "baths": 3,
+                "size": -1,
+                "price": -1,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4df37f5e57.06122978202.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": -1,
+                "price": -1,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4e331d5aa3.44812853151.png"]
+            },
+            {
                 "beds": 4,
                 "baths": 4,
                 "size": -1,
                 "price": 1419,
                 "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4e60018417.05825158495.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": -1,
+                "price": -1,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4e4233abb3.17557863881.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": -1,
+                "price": -1,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4e5280e900.83615804739.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": -1,
+                "price": -1,
+                "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4e1f549950.88854477712.png"]
             }
         ],
         "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4fe600cd22.51782664203.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff377e744.39859548118.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff7507836.86892632217.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4fecdee2e3.16246156932.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff4d1b231.07755678689.jpg"]
@@ -759,7 +808,7 @@
                 "size": squarefeet,
                 "price": monthlyprice,
                 "images": ["", "", "", "", ""]
-            }
+            },
         ],
         "images": ["", "", "", "", ""]
     }
