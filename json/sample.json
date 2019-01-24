@@ -41,28 +41,28 @@
             {
                 "baths": 1,
                 "beds": 0,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/northwoods.jpg", "https://www.blueskylofts.net/wp-content/uploads/northwoods2.jpg"],
                 "price": 1100,
                 "size": 0
             },
             {
                 "baths": 1,
                 "beds": 0,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/legend.jpg"],
                 "price": 1225,
                 "size": 0
             },
             {
                 "baths": 1,
                 "beds": 1,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest.jpg"],
                 "price": 1025,
                 "size": 0
             },
             {
                 "baths": 1,
                 "beds": 1,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest2.jpg"],
                 "price": 1025,
                 "size": 0
             }
