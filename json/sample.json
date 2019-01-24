@@ -492,9 +492,16 @@
                 "size": 938,
                 "price": -1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-09.jpg"]
+            },
+            {
+                "beds": 3,
+                "baths": 2,
+                "size": 1208,
+                "price": -1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-08.jpg"]
             }
         ],
-        "images": ["", "", "", "", ""]
+        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7910%204500.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7922%204500.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7934%204500(1).jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7957%204500.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/IMG_7950%204500.jpg"]
     },    
     
     
