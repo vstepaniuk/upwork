@@ -531,6 +531,41 @@
         ],
         "images": ["https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-13-InteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-01-ExteriorBuildings-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-03-ExteriorBuildings-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-06-ExteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-16-InteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-14-InteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-23-InteriorAmenities-Gallery.jpg", "https://www.americancampus.com/assets/301-uclubon28th/gallery/galleryslider/301-24-InteriorAmenities-Gallery.jpg"]
     },
+    {
+        "type": 1,
+        "name": "University Village at Boulder Creek",
+        "provider": "University Village at Boulder Creek",
+        "description": "Live, learn, and thrive! Walk-to-class convenience, stay-fit amenities, tools that help you make the grade, and community events that keep you connected all make University Village at Boulder Creek the premier student housing choice at University of Colorado Boulder. Get the lifestyle you want with our fully furnished apartments featuring private bedroom and bathroom floor plans, 24-hour, state-of-the-art fitness center and Academic Success Center! Plus, our professional on-site management and staff dedicated to serving your needs and helping you enjoy your college experience at CU.",
+        "location": {
+            "address": "2600 Taft Drive, Boulder, CO 80302",
+            "coordinates": [40.010204, -105.2632275]
+        },
+        "details": ["AC", "Gym", "Heating", "Parking", "Washer"],
+        "properties": [
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": -1,
+                "price": 1134,
+                "images": ["https://www.americancampus.com/assets/300-universityvillageatbouldercreek/floorplans/4-Bed-4-Bath-01.png"]
+            },
+            {
+                "beds": 3,
+                "baths": 3,
+                "size": -1,
+                "price": 1174,
+                "images": ["https://www.americancampus.com/assets/300-universityvillageatbouldercreek/floorplans/3-Bed-3-Bath-V3.png"]
+            },
+            {
+                "beds": 3,
+                "baths": 3,
+                "size": -1,
+                "price": 1194,
+                "images": ["https://www.americancampus.com/assets/300-universityvillageatbouldercreek/floorplans/3-Bed-3-Bath-01_1.png"]
+            }
+        ],
+        "images": ["https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/003-300-Volleyball-Gallery.jpg", "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/001-300-Exterior1-Gallery.jpg", "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/005-300-Clubhouse2-Gallery.jpg", "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/008-300-FitnessCenter1-Gallery.jpg", "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/011-300-LivingRoom-Gallery.jpg",  "https://www.americancampus.com/assets/300-universityvillageatbouldercreek/gallery/galleryslider/013-300-Bedroom2-Gallery.jpg"]
+    },
     
     
     
@@ -562,7 +597,7 @@
             "address": "address",
             "coordinates": [latitude, longitude]
         },
-        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "details": [+"AC", "Gym", +"Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "beds": beds,
         "baths": baths,
         "size": squarefeet,
@@ -578,7 +613,7 @@
             "address": "address",
             "coordinates": [latitude, longitude]
         },
-        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "details": [+"AC", "Gym", +"Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "properties": [
             {
                 "beds": beds,
@@ -590,5 +625,6 @@
         ],
         "images": ["", "", "", "", ""]
     }
+    
     
 ]
