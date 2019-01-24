@@ -74,29 +74,85 @@
             "address": "2726 Moorhead Ave, Boulder CO 80305",
             "coordinates": [39.9986764, -105.2612561]
         },
-        "name": "Hive Baseline",
+        "name": "The Hive Baseline",
         "type": 1,
-        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
-        "description": "Description if available",
+        "details": ["AC", "Heating", "Pool", "Washer", "Cats", "Dogs", "Parking"],
+        "description": "The Hive Baseline is centrally located in Beautiful Boulder just off of Baseline Rd. Walking distance from University of Colorado Boulder, Baseline shopping district, and a stone’s throw from both Pearl Street and 29th St Mall, The Hive at Baseline is well located to meet your needs.  A hop, skip and a jump from US-36, head out from your home in minutes to hit Denver, the slopes, fishing holes, mountain bike and hiking trails and more. After a long day at school, or out enjoying the gorgeous Boulder outdoors, you will be happy to relax on your balcony and take in the mountain views. During the summer months hang out poolside with your friends and enjoy our communal grilling areas. On those chilly winter evenings, cozy up next to your fireplace and order delivery from your favorite local Boulder restaurant. Our well-appointed, town-home style apartments are available in spacious one, two and three-bedroom floorplans and are equipped with central heat and air and modern appliances. As you make the Hive Baseline your home you may take advantage of our community dog park, individual garage options, private balconies and more. Call to reserve your space today!",
         "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
         "properties": [
             {
-                "baths": # of baths,
                 "beds": # of beds,
+                "baths": # of baths,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": # of beds,
+                "baths": # of baths,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": # of beds,
+                "baths": # of baths,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": # of beds,
+                "baths": # of baths,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": # of beds,
+                "baths": # of baths,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": # of beds,
+                "baths": # of baths,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": # of beds,
+                "baths": # of baths,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": # of beds,
+                "baths": # of baths,
+                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
+                "price": monthlyprice,
+                "size": squarefeet
+            },
+            {
+                "beds": # of beds,
+                "baths": # of baths,
                 "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
                 "price": monthlyprice,
                 "size": squarefeet
             }
         ],
-        "provider": "Hive Baseline"
+        "provider": "The Hive Baseline"
     },
     {
         "location": {
             "address": "address",
             "coordinates": [latitude, longitude]
         },
-        "baths": # of baths,
         "beds": # of beds,
+        "baths": # of baths,
         "description": "Description if available",
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
@@ -118,8 +174,8 @@
         "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
         "properties": [
             {
-                "baths": # of baths,
                 "beds": # of beds,
+                "baths": # of baths,
                 "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
                 "price": monthlyprice,
                 "size": squarefeet
