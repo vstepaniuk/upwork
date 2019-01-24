@@ -342,7 +342,160 @@
         ],
         "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/135%20Henley.png", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/31%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/23%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/17%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/16%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/32%20Henley.jpg",  "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/1%20Remy.png", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/0%20Remy.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/8%20Remy.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/4%20Remy.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/12%20Remy.jpg","https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/11%20Remy.jpg"]
     },
-    
+    {
+        "type": 1,
+        "name": "The Hive at 9Seventy",
+        "provider": "The Hive at 9Seventy",
+        "description": "9Seventy is located in beautiful Boulder, CO on 28th St. across from campus. This idyllic location puts you steps from the University of Colorado, a jog to 29th St. Mall, a bike ride from Chataqua Park, and in the middle of everything else Boulder has to offer. When you get home and kick off your hiking boots enjoy the plethora of amenities 9Seventy has to offer. Take in some sun by the resort-style pool or get ready to hit the trails in the bike repair station. Hangout with friends in the clubhouse or break a sweat in the fitness center. 9Seventy offers studio, one, two, and three bedroom apartments. Each apartment is well appointed with hardwood style flooring, stainless steel appliances, modern fixtures, and in many cases balconies with breathtaking views. 9Seventy has raised the bar for apartment living in Boulder, CO. Don’t wait, sign today!",
+        "location": {
+            "address": "970 28th Street, Boulder, CO 80303",
+            "coordinates": [40.0061849, -105.260369]
+        },
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
+        "properties": [
+            {
+                "beds": 0,
+                "baths": 1,
+                "size": 486,
+                "price": 2100,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-05.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 689,
+                "price": 2500,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/970-b1-compressed%20(1).jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 611,
+                "price": 2350,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-04.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 646,
+                "price": -1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-03.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 577,
+                "price": -1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-B4.jpg"]
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "size": 563,
+                "price": 2500,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-02.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 1,
+                "size": 900,
+                "price": -1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-12.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 1,
+                "size": 792,
+                "price": 2900,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-06.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 1,
+                "size": 827,
+                "price": 2700,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-14.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 937,
+                "price": 2800,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-10.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 999,
+                "price": 2800,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/970_c1(1).jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 868,
+                "price": 2730,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-07.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 961,
+                "price": 2900,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/970-c2.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 984,
+                "price": 2950,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/970-c2(1).jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 970,
+                "price": 3000,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/970-c4%20(1)-compressed.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 906,
+                "price": 2950,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-11.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 886,
+                "price": -1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-13.jpg"]
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 951,
+                "price": -1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-15.jpg"]
+            },
+            {
+                "beds": 3,
+                "baths": 2,
+                "size": 1035,
+                "price": 3990,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/970-d1%20(1)%20(1).jpg"]
+            },
+            {
+                "beds": 3,
+                "baths": 2,
+                "size": 938,
+                "price": -1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/531325/9Seventy_2DFloorPlans-09.jpg"]
+            }
+        ],
+        "images": ["", "", "", "", ""]
+    },    
     
     
     
@@ -403,4 +556,5 @@
         ],
         "images": ["", "", "", "", ""]
     }
+    
 ]
