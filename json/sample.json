@@ -755,6 +755,62 @@
         ],
         "images": ["https://medialibrarycdn.entrata.com/media_library/10073/5aff4fe600cd22.51782664203.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff377e744.39859548118.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff7507836.86892632217.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4fecdee2e3.16246156932.jpg", "https://medialibrarycdn.entrata.com/media_library/10073/5aff4ff4d1b231.07755678689.jpg"]
     },
+    {
+        "type": 1,
+        "name": "The Province Boulder",
+        "provider": "The Province",
+        "description": "Whether you want the convenience of living minutes away from your classes, the privacy of off-campus apartments, or the amenities of an all-inclusive community, The Province Boulder is the right choice for you. At The Province Boulder, moving into your new apartment has never been easier. Walk into your fully furnished apartment for the first time and know that the hard part is already done- your lights are already on, your furniture is set up, and your modern appliances are installed. And with all that extra free time, how about hanging out around our cozy fire pit with your new neighbors and check out the breathtaking view!",
+        "location": {
+            "address": "950 28th Street, Boulder, CO 80303",
+            "coordinates": [40.0055419, -105.260031]
+        },
+        "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Washer"],
+        "properties": [
+            {
+                "beds": 2,
+                "baths": 2,
+                "size": 830,
+                "price": 1430,
+                "images": ["http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Floor-Plans/The-Province_2BR---3D-for-Web.png"]
+            },
+            {
+                "beds": 3,
+                "baths": 3,
+                "size": 1157,
+                "price": 1335,
+                "images": ["http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Floor-Plans/The-Province_3BR---3D-for-Web.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": 1560,
+                "price": 1285,
+                "images": ["http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Floor-Plans/The-Province_4BR-Q1---3D-for-Web.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": 1399,
+                "price": 1285,
+                "images": ["http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Floor-Plans/The-Province_4BR-Q2---3D-for-Web.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": 1430,
+                "price": 1280,
+                "images": ["http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Floor-Plans/The-Province_4BR-Q3---3D-for-Web.png"]
+            },
+            {
+                "beds": 4,
+                "baths": 4,
+                "size": 1475,
+                "price": 1295,
+                "images": ["http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Floor-Plans/The-Province_4BR-Q4---3D-for-Web.png"]
+            }
+        ],
+        "images": ["http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-27-Web.jpg", "http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-58-Web.jpg", "http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-57-Web.jpg", "http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-50-Web.jpg", "http://www.livetheprovince.com/-/media/328---The-Province-Boulder/Images/328-48-Web.jpg"]
+    },
     
     
     
