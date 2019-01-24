@@ -11,57 +11,57 @@
         "images": ["https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-004.jpg", "https://www.blueskylofts.net/wp-content/uploads/use-028.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-using-032.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Loftsuse-1081.jpg", "https://www.blueskylofts.net/wp-content/uploads/Blue-Sky-Lofts-new12-043.jpg"],
         "properties": [
             {
-                "baths": 1,
                 "beds": 0,
+                "baths": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/lodgepole.jpg","https://www.blueskylofts.net/wp-content/uploads/lodgepole2.jpg"],
                 "price": 1025,
                 "size": 0
             },
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/divide.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide2.jpg", "https://www.blueskylofts.net/wp-content/uploads/divide3.jpg"],
                 "price": 1125,
                 "size": 0
             },
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/divide4.jpg"],
                 "price": 1225,
                 "size": 0
             },
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/cloud.jpg"],
                 "price": 1225,
                 "size": 0
             },
             {
-                "baths": 1,
                 "beds": 0,
+                "baths": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/northwoods.jpg", "https://www.blueskylofts.net/wp-content/uploads/northwoods2.jpg"],
                 "price": 1100,
                 "size": 0
             },
             {
-                "baths": 1,
                 "beds": 0,
+                "baths": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/legend.jpg"],
                 "price": 1225,
                 "size": 0
             },
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest.jpg"],
                 "price": 1025,
                 "size": 0
             },
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://www.blueskylofts.net/wp-content/uploads/eaglesnest2.jpg"],
                 "price": 1025,
                 "size": 0
@@ -81,64 +81,64 @@
         "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Pool.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Monument%20Sign.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Courtyard.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202776.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Baseline%20Building%202760.jpg"],
         "properties": [
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/baseline.jpg"],
                 "price": 1665,
                 "size": 434
             },
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Broadway.jpg"],
                 "price": 1800,
                 "size": 680
             },
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Hill.jpg"],
                 "price": 1805,
                 "size": 689
             },
             {
-                "baths": 1,
                 "beds": 1,
+                "baths": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Pearl.jpg"],
                 "price": 1750,
                 "size": 725
             },
             {
-                "baths": 1,
                 "beds": 2,
+                "baths": 1,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Fox.jpg"],
                 "price": 2190,
                 "size": 896
             },
             {
-                "baths": 1.5,
                 "beds": 2,
+                "baths": 1.5,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Fillmore.jpg"],
                 "price": 2200,
                 "size": 927
             },
             {
-                "baths": 2,
                 "beds": 2,
+                "baths": 2,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Bluebird%20(1).jpg"],
                 "price": 2300,
                 "size": 924
             },
             {
-                "baths": 2,
                 "beds": 2,
+                "baths": 2,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Ogden.jpg"],
                 "price": 927,
                 "size": 2470
             },
             {
-                "baths": 2,
                 "beds": 3,
+                "baths": 2,
                 "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Red%20Rocks.jpg"],
                 "price": 1221,
                 "size": 3000
@@ -268,9 +268,9 @@
         "description": "Description if available",
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "images": ["", "", "", "", ""],
-        "name": "Name of place",
+        "name": "Public name of place",
         "price": monthlyprice,
-        "provider": "Website Name",
+        "provider": "Website",
         "size": squarefeet,
         "type": 0
     },
@@ -279,7 +279,7 @@
             "address": "address",
             "coordinates": [latitude, longitude]
         },
-        "name": "Name of place",
+        "name": "Public name of place",
         "type": 1,
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "description": "Description if available",
@@ -293,7 +293,7 @@
                 "size": squarefeet
             }
         ],
-        "provider": "Website Name"
+        "provider": "Website"
     }
 ]
 
@@ -316,14 +316,77 @@
         "type": 1,
         "details": ["AC", "Gym", "Heating", "Parking", "Cats", "Dogs", "Pool", "Washer"],
         "description": "Two amazing boutique-style communities in one ideal location. Come enjoy life in the most ideal location in Boulder, where you'll be directly across the street from Meadows Shopping Center, and just a quick step from groceries, restaurants, beauty salons, dry cleaning and convenience stores; and a quick bike ride to the bus stop, 24 Hour Fitness, and the Boulder Public Library. You’ve got two great apartments to choose from – find the one that fits you best. Contact us today to schedule a tour of our community or stop by today to find your new home! Where you choose to relax at the end of a long day is a decision we do not take lightly. That’s why we took our time when considering every detail of our spacious studio, one, two, and three bedroom floor plans and our authentic mid-century modern amenity offerings. Our homes boast private patios/balconies, in-home washer/dryers, fully-equipped modern kitchens, wood-burning fireplaces, stainless black appliances, and wood floors. At The Henley, you can enjoy true comfort in a boutique-style apartment community. There’s more outside your front door as you engage in our convenient community amenities, including an indoor pool, fitness center complete with free weights, on-site laundry, and a clubhouse with billiards. One of the features we are most proud of is access to private garages. But perhaps what takes.",
-        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/32%20Henley.jpg?&quality=85&width=956&height=637&mode=max", "", "", "", ""],
+        "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/29%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/31%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/23%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/16%20Henley.jpg", "https://cdngeneral.rentcafe.com/dmslivecafe/3/653810/32%20Henley.jpg"],
         "properties": [
             {
-                "beds": beds,
-                "baths": baths,
+                "beds": 1,
+                "baths": 1,
                 "images": ["", "", "", "", ""],
                 "price": monthlyprice,
-                "size": squarefeet
+                "size": 872
+            },
+            {
+                "beds": 1,
+                "baths": 1,
+                "images": ["", "", "", "", ""],
+                "price": monthlyprice,
+                "size": 921
+            },
+            {
+                "beds": 3,
+                "baths": 2,
+                "images": ["", "", "", "", ""],
+                "price": monthlyprice,
+                "size": 1505
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "images": ["", "", "", "", ""],
+                "price": 2195,
+                "size": 1260
+            },
+            {
+                "beds": 1,
+                "baths": 1.5,
+                "images": ["", "", "", "", ""],
+                "price": 1520,
+                "size": 970
+            },
+            {
+                "beds": 2,
+                "baths": 1.5,
+                "images": ["", "", "", "", ""],
+                "price": 2000,
+                "size": 1120
+            },
+            {
+                "beds": 0,
+                "baths": 1,
+                "images": ["", "", "", "", ""],
+                "price": 1600,
+                "size": 400
+            },
+            {
+                "beds": 2,
+                "baths": 2.5,
+                "images": ["", "", "", "", ""],
+                "price": 2250,
+                "size": 1365
+            },
+            {
+                "beds": 1,
+                "baths": 1.5,
+                "images": ["", "", "", "", ""],
+                "price": 1755,
+                "size": 1148
+            },
+            {
+                "beds": 2,
+                "baths": 2,
+                "images": ["", "", "", "", ""],
+                "price": 2000,
+                "size": 1075
             }
         ],
         "provider": "Henley and Remy"
