@@ -81,67 +81,67 @@
         "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
         "properties": [
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/baseline.jpg"],
+                "price": 1665,
+                "size": 434
             },
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Broadway.jpg"],
+                "price": 1800,
+                "size": 680
             },
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Hill.jpg"],
+                "price": 1805,
+                "size": 689
             },
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 1,
+                "baths": 1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Pearl.jpg"],
+                "price": 1750,
+                "size": 725
             },
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 2,
+                "baths": 1,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/The%20Fox.jpg"],
+                "price": 2190,
+                "size": 896
             },
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 2,
+                "baths": 1.5,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Fillmore.jpg"],
+                "price": 2200,
+                "size": 927
             },
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 2,
+                "baths": 2,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Bluebird%20(1).jpg"],
+                "price": 2300,
+                "size": 924
             },
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 2,
+                "baths": 2,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Ogden.jpg"],
+                "price": 927,
+                "size": 2470
             },
             {
-                "beds": # of beds,
-                "baths": # of baths,
-                "images": ["imageURL if available", "imageURL if available", "imageURL if available"],
-                "price": monthlyprice,
-                "size": squarefeet
+                "beds": 3,
+                "baths": 2,
+                "images": ["https://cdngeneral.rentcafe.com/dmslivecafe/3/645102/Red%20Rocks.jpg"],
+                "price": 1221,
+                "size": 3000
             }
         ],
         "provider": "The Hive Baseline"
